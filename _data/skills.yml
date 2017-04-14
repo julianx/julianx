@@ -1,0 +1,8 @@
+- name: Programming
+  description: I like my code to be pretty, reusable, modular and efficient. I know how to use <b>Python, Django</b>, C, C++, PHP, Matlab, Java and Bash script.
+
+- name: Cloud computing
+  description: I always tend optimize resource utilization a lot so costs go down and elasticity shows cloud advantages over on-premises. Hands on experience with Amazon <b>AWS</b>, Microsoft, and open source clouds and technologies.
+
+- name: Virtualization
+  description: I enjoy virtualizing since it makes getting-things-done-fast a lot easier. I've been <b>VMWare</b> ESX administrator for more than 700 VMs running 24/7 over two fibre channel SANs, data loss free even after technical equipment failures (recovered data from physically damaged disks by using forensic equipment; and I also like other clouds platforms, like <b>OpenStack</b>.

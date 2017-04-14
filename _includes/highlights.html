@@ -1,0 +1,29 @@
+<section id="highlights">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Highlights</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-justify">
+                <dl class="dl-horizontal">
+                    {% for post in site.data.highlights %}
+                    <dt>
+                        {{ post.interval }}
+                    </dt>
+                    <dd>
+                        {% for highlight in post.items %}
+                            {{ highlight.description }}
+                            <br/>
+                            <br/>
+                        {% endfor %}
+                    </dd>
+                    <br/>
+                    {% endfor %}
+                </dl>
+            </div>
+        </div>
+    </div>
+</section>

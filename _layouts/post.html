@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include blog/blog_nav.html %}
+    <article class="post">
+        <div class="container">
+            <div class="row">
+                <header class="post-header">
+                    <div id="blog-articles" class="container">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <h1 class="post-title">{{ page.title }}</h1>
+                                <h6 class="post-date">
+                                    Written on {{ page.date | date: "%B %e, %Y" }}
+                                </h6>
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div class="col-lg-10 col-lg-offset-1 col-xs-12 text-justify">
+                    <article class="post-content">
+                        {{ content }}
+                    </article>
+                </div>
+            </div>
+        </div>
+    </article>
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

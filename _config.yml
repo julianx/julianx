@@ -1,0 +1,72 @@
+# Site settings
+title: Julian Uran
+full_title: Julian Alexander Uran Martinez
+email: julianx@gmail.com
+url: https://julianx.github.io
+description: "Julian Alexander Uran Martinez, a Systems and Computer Engineer with Information Technology Administration and Software Development experience."
+skills: "Software Developer - System Administrator - Cloud Engineer"
+meta_author: "Julian Uran"
+keywords: "julian alexander uran martinez, julian alexander uran, julianx, software, information technology, virtualization, networking, cloud computing, programming"
+
+# Google webmaster tools
+google_verify: "diwWaOG-HoOgSr6fR3a30zqok509k4gV3m0rMjKssjA"
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 00A8E8
+  primary-rgb: "0,168,232"
+  secondary: 006494
+  secondary-dark: 046E8F
+
+# Footer settings
+footer:
+  copyright: Julian Alexander Uran Martinez
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/julianxuran
+  - title: facebook
+    url: http://facebook.com/julianx
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/5195139/
+  - title: bitbucket
+    url: http://bitbucket.org/julianxuran
+  - title: github
+    url: http://github.com/julianx
+  - title: linux
+    url: http://www.linuxcounter.net/user/392465
+  - title: linkedin
+    url: http://www.linkedin.com/in/julianx
+  - title: envelope
+    url: mailto:julianx[~at~]gmail.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Pereira, Risaralda
+  - line: Colombia, South America
+
+# Credits content
+credits: 'Freelancer is an open source theme created by <a href="http://startbootstrap.com">Start Bootstrap</a> and adapted to Jekyll by <a href="http://jeromelachaud.com/">Jerome Lachaud</a>.'
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+permalink: pretty

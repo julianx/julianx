@@ -1,0 +1,100 @@
+<!-- Portfolio Modals -->
+{% for post in site.data.employers %}
+<div class="portfolio-modal modal fade" id="employersModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
+     aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>{{ post.client }}</h2>
+                        <hr class="star-primary">
+                        <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered"
+                             alt="{{ post.alt }}">
+                        <ul class="list-inline item-details">
+                            <li><strong>Date:</strong>
+                                {{ post.project-date }}
+                            </li>
+                            <li><strong>Supervisor:</strong>
+                                <strong>{{ post.supervisor }}</strong>
+                            </li>
+                            {% if post.department %}
+                                <li><strong>Department:</strong>
+                                    <strong>{{ post.department }}</strong>
+                                </li>
+                            {% endif %}
+                            {% if post.website %}
+                                <li><strong>Website:</strong>
+                                    <a href="//{{ post.website }}/">{{ post.client }}</a>
+                                </li>
+                            {% endif %}
+                        </ul>
+                        <p class="text-justify"><strong>{{ post.job-title }}:</strong> {{ post.description }}</p>
+                        {% if post.core-technologies %}
+                            <p class="text-justify"><strong>Technologies used:</strong> {{ post.core-technologies }}</p>
+                        {% endif %}
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+<!-- Portfolio Modals -->
+{% for post in site.data.projects %}
+<div class="portfolio-modal modal fade" id="projectsModal-{{ post.modal-id }}" tabindex="-1" role="dialog"
+     aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>{{ post.client }}</h2>
+                        <hr class="star-primary">
+                        <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered"
+                             alt="{{ post.alt }}">
+                        <ul class="list-inline item-details">
+                            <li><strong>Date:</strong>
+                                {{ post.project-date }}
+                            </li>
+                            <li><strong>Supervisor:</strong>
+                                <strong>{{ post.supervisor }}</strong>
+                            </li>
+                            {% if post.department %}
+                                <li><strong>Department:</strong>
+                                    <strong>{{ post.department }}</strong>
+                                </li>
+                            {% endif %}
+                            {% if post.website %}
+                                <li><strong>Website:</strong>
+                                    <a href="//{{ post.website }}/">{{ post.client }}</a>
+                                </li>
+                            {% endif %}
+                        </ul>
+                        <p><strong>{{ post.job-title }}:</strong> {{ post.description }}</p>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
+                            Close
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %}

@@ -1,0 +1,31 @@
+<section id="skills">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Skills</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-justify">
+                <p>Since I'm good at both system administration and software development, my skill set is distributed
+                    between the two and that allows me to get things running full-throttle fast, even from scratch.</p><br/>
+                <dl class="dl-horizontal">
+                    {% for post in site.data.skills %}
+                    <dt>
+                        {{ post.name }}
+                    </dt>
+                    <dd>
+                        {{ post.description }}
+                    </dd>
+                    <br/>
+                    {% endfor %}
+                </dl>
+                <div class="text-center">
+                    <img src="img/skills.svg" class="img-centered" alt="Skill map" style="width: 80%">
+                    <p>My skills and tools I use</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

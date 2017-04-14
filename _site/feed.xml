@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julian Uran</title>
+    <description>Julian Alexander Uran Martinez, a Systems and Computer Engineer with Information Technology Administration and Software Development experience.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 14 Apr 2017 12:46:46 -0500</pubDate>
+    <lastBuildDate>Fri, 14 Apr 2017 12:46:46 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description></description>
+        <pubDate>Thu, 13 Apr 2017 21:52:46 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/04/13/vector-graphics/</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/04/13/vector-graphics/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

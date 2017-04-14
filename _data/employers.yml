@@ -1,0 +1,103 @@
+- modal-id: bemovil
+  client: BeMovil S.A.S.
+  project-date: February 2015 -- Today
+  img: bemovil.png
+  alt: BeMovil SAS logo
+  company-description: --
+  job-title: Lead developer
+  description: Designed and implemented cloud-backed brand new backbone and applications for nationwide level mobile carrier-related operations, handling <b>millions</b> of cell phone top-up requests per day, sent by smartphones, web-services, and other supported devices pointing to the BeMovil platform. <b>100K+ web page-views per day</b> currently are currently being processed.
+  core-technologies: Python, Django, GNU/Linux, AWS, MySQL, Git, JavaScript, HTML5, CSS3.
+  supervisor: <a href="//www.linkedin.com/in/jdbetancur">David Betancur Vallejo, CTO.</a>
+  department:
+  website: bemovil.net
+
+- modal-id: veritran
+  client: VeriTran
+  project-date: February 2015 -- October 2016
+  img: veritran.png
+  alt: VeriTran logo
+  company-description: --
+  job-title: System Analyst / Research and Development Engineer
+  description: Identified and patched memory related issues for Linux based systems that throttled down performance for long running processes <b>(performance went back up by two thirds)</b>. Implemented load testing base line with technologies such as Apache Benchmark and Apache JMeter.
+  core-technologies: C++, Bash scripting, Java, Oracle, Linux, SVN.
+  supervisor: <a href="//ar.linkedin.com/in/pablo-ronco-6a52529">Pablo Ronco, CTO</a>
+  department:
+  website: veritran.net/en
+
+- modal-id: udel
+  client: Global Computing Lab
+  project-date: June 2014 -- November 2014
+  img: udel.png
+  alt: UDel logo
+  company-description: --
+  job-title: Graduate Research Assistant / Lead Developer
+  description: implemented, modified and tested tools for researching computationally efficient algorithms and adaptive scheduling policies for scientific computing on GPUs and clouds.
+  core-technologies: Matlab, C++, Fortran, GNU/Linux, SVN.
+  supervisor: <a href="//www.eecis.udel.edu/~taufer/">Dr. Michela Taufer</a>
+  department: <a href="//www.cis.udel.edu">CIS Department</a>
+  website: gcl.cis.udel.edu
+
+- modal-id: uniandes
+  client: Universidad de los Andes, CIS
+  project-date: August 2011 -- February 2014
+  img: uniandes.png
+  alt: UniAndes logo
+  company-description: --
+  job-title: Graduate Assistant / System Administrator
+  description: troubleshooted tier 2 and 3 requests while developing, maintaining, designing, and managing web services, software, servers, databases, information systems, and virtual IT infrastructure (VMware). Designed and implementing datacenter optimizations that led to performance and user experience improvements (30%, based on network throughput and data IO stats) on the overall cloud computing environment.
+  core-technologies: VMware, GNU/Linux, Bash scripting, Power Shell, SVN, EMC, Dell, Brocade, Aberdeen.
+  supervisor: <a href="//sistemas.uniandes.edu.co/en/faculty-and-staff/professors-and-administrative-staff/general-coordinators">Juan Diego Jimenez, IT Coordinator.</a>
+  department: <a href="//sistemas.uniandes.edu.co/en/">CIS Department.</a>
+  website: sistemas.uniandes.edu.co/en
+
+- modal-id: interco
+  client: IntercoNet Ltd
+  project-date: May 2010 -- December 2010
+  img: interco.png
+  alt: InterCoNet logo
+  company-description: --
+  job-title: Technical Intern / IT Engineer
+  description: Network infrastructure, data center, servers, and services administrator of mid and big sized companies in the Colombian Andean region. In charge of GNU/Linux based solutions, highly-available systems, high-performance Internet implementations, and level 1-2 support.
+  core-technologies: GNU/Linux, Bash scripting, CISCO.
+  supervisor: <a href="//www.linkedin.com/in/jdbetancur">David Betancur Vallejo, CTO.</a>
+  department:
+  website: www.interco.net.co
+
+- modal-id: sirius
+  client: Sirius HPC Research Laboratory
+  project-date: February 2010 -- August 2011
+  img: sirius.png
+  alt: Sirius HPC Research Laboratory logo
+  company-description: --
+  job-title: System Administrator
+  description: network and servers administrator.
+  core-technologies: GNU/Linux, CISCO.
+  supervisor: <a href="//sirius.utp.edu.co/sirius/?q=user/24">Jose A. Jaramillo, Professor.</a>
+  department: <a href="//isc.utp.edu.co">CIS</a>
+  website: judge.utp.edu.co
+
+- modal-id: crie
+  client: Universidad Tecnológica de Pereira, CRIE
+  project-date: February 2007 -- August 2011
+  img: utp.png
+  alt: Universidad Tecnológica de Pereira, CRIE logo
+  company-description: --
+  job-title: Computer Technician
+  description: software and hardware maintainer of the overall student-focused computer equipment of the Universidad Tecnológica de Pereira. Near 600 personal computers managed via a central Active Directory server.
+  core-technologies: Microsoft Windows / Server, HP.
+  supervisor: <a href="//crie.utp.edu.co/funcionarios.html">Lyda C. Pulgarin, IT Coordinator.</a>
+  department: <a href="//crie.utp.edu.co">CRIE.</a>
+  website: crie.utp.edu.co
+
+- modal-id: isc
+  client: Universidad Tecnológica de Pereira, CIS Department
+  project-date: February 2007 -- November 2008
+  img: isc.png
+  alt: Universidad Tecnológica de Pereira, Computer and Information Sciences Department logo
+  company-description: --
+  job-title: Junior System administrator
+  description: </strong> Maintainer of OpenSource projects, mailing lists, web servers, mail servers, database servers, and version control systems.
+  core-technologies: GNU/Linux, Zope, MySQL, SVN.
+  supervisor: <a href="//johnguerra.co">Dr. John A. Guerra, Professor.</a>
+  department: <a href="//isc.utp.edu.co">CIS</a>
+  website: isc.utp.edu.co

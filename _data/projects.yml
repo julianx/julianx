@@ -1,0 +1,111 @@
+- company-description: --
+  job-title: Computer Technician
+  layout: default
+  modal-id: crie
+  date: 2014-07-13
+  img: utp.png
+  alt: Universidad Tecnológica de Pereira, CRIE logo
+  project-date: February 2007 -- August 2011
+  client: Universidad Tecnológica de Pereira, CRIE
+  description: software and hardware maintainer of the overall student-focused computer equipment of the Universidad Tecnológica de Pereira. Near 600 personal computers managed via a central Active Directory server.
+  supervisor: <a href="//crie.utp.edu.co/funcionarios.html">Lyda C. Pulgarin, IT Coordinator.</a>
+  department: <a href="//crie.utp.edu.co">CRIE.</a>
+  website: crie.utp.edu.co
+
+- company-description: --
+  job-title: System Administrator
+  layout: default
+  modal-id: sirius
+  date: 2014-07-14
+  img: sirius.png
+  alt: Sirius HPC Research Laboratory logo
+  project-date: February 2010 -- August 2011
+  client: Sirius HPC Research Laboratory
+  description: network and servers administrator.
+  supervisor: <a href="//sirius.utp.edu.co/sirius/?q=user/24">Jose A. Jaramillo, Professor.</a>
+  department: <a href="//isc.utp.edu.co">CIS</a>
+  website: judge.utp.edu.co
+
+- company-description: --
+  job-title: Junior System administrator
+  layout: default
+  modal-id: isc
+  date: 2014-07-15
+  img: isc.png
+  alt: Universidad Tecnológica de Pereira, Computer and Information Sciences Department logo
+  project-date: February 2007 -- November 2008
+  client: Universidad Tecnológica de Pereira, CIS Department
+  description: </strong> Maintainer of OpenSource projects, mailing lists, web servers, mail servers, database servers, and version control systems.
+  supervisor: <a href="//johnguerra.co">Dr. John A. Guerra, Professor.</a>
+  department: <a href="//isc.utp.edu.co">CIS</a>
+  website: isc.utp.edu.co
+
+- layout: default
+  modal-id: interco
+  date: 2014-07-14
+  company-description: --
+  client: IntercoNet Ltd
+  img: interco.png
+  alt: InterCoNet logo
+  job-title: Technical Intern / IT Engineer
+  project-date: May 2010 -- December 2011
+  description: Network infrastructure, data center, servers, and services administrator of mid and big sized companies in the Colombian Andean region. In charge of GNU/Linux based solutions, highly-available systems, high-performance Internet implementations, and level 1-2 support.
+  supervisor: <a href="//www.linkedin.com/in/jdbetancur">David Betancur Vallejo, CTO.</a>
+  department:
+  website: www.interco.net.co
+
+- layout: default
+  modal-id: bemovil
+  date: 2014-07-17
+  company-description: --
+  client: BeMovil S.A.S.
+  img: bemovil.png
+  alt: BeMovil SAS logo
+  job-title: Lead developer
+  project-date: February 2015 -- Today
+  description: Responsibilities include designing and implementing software applications for nationwide level mobile carrier related micro-transactions. A completely new backbone was implemented using RESTful web services, Python and Django.
+  supervisor: <a href="//www.linkedin.com/in/jdbetancur">David Betancur Vallejo, CTO.</a>
+  department:
+  website: bemovil.net
+
+- layout: default
+  modal-id: veritran
+  date: 2014-07-18
+  company-description: --
+  client: VeriTran
+  img: veritran.png
+  alt: VeriTran logo
+  job-title: System Analyst / Research and Development Engineer
+  project-date: February 2015 -- October 2016
+  description: Argentine mobile banking app developer company. Implemented and improved backbone features.
+  supervisor: <a href="//ar.linkedin.com/in/pablo-ronco-6a52529">Pablo Ronco, CTO</a>
+  department:
+  website: veritran.net/en
+
+- layout: default
+  modal-id: uniandes
+  date: 2014-07-19
+  company-description: --
+  client: Universidad de los Andes, CIS
+  img: uniandes.png
+  alt: UniAndes logo
+  job-title: Graduate Assistant / System Administrator
+  project-date: August 2011 -- February 2014
+  description: troubleshooted tier 2 and 3 requests while developing, maintaining, designing, and managing web services, software, servers, databases, information systems, and virtual IT infrastructure. Designed and implementing datacenter optimizations that led to performance and user experience improvements (30%, based on network throughput and data IO stats) on the overall cloud computing environment.
+  supervisor: <a href="//sistemas.uniandes.edu.co/en/faculty-and-staff/professors-and-administrative-staff/general-coordinators">Juan Diego Jimenez, IT Coordinator.</a>
+  department: <a href="//sistemas.uniandes.edu.co/en/">CIS Department.</a>
+  website: sistemas.uniandes.edu.co/en
+
+- layout: default
+  modal-id: udel
+  date: 2014-07-20
+  company-description: --
+  client: Global Computing Lab
+  img: udel.png
+  alt: UDel logo
+  job-title: Graduate Research Assistant / Lead Developer
+  project-date: June 2014 -- November 2014
+  description: implemented, modified and tested tools for researching computationally efficient algorithms and adaptive scheduling policies for scientific computing on GPUs and clouds.
+  supervisor: <a href="//www.eecis.udel.edu/~taufer/">Dr. Michela Taufer</a>
+  department: <a href="//www.cis.udel.edu">CIS Department</a>
+  website: gcl.cis.udel.edu

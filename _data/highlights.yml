@@ -1,0 +1,15 @@
+- interval: 2015--Today
+  items:
+    - description: <b>Lead developer</b> at <a href="//www.bemovil.net">Bemovil SAS</a>, Colombia. Implemented cloud-backed brand new backbone from scratch for <b>nation-wide</b> mobile carrier related operations, currently handling <b>millions</b> of cellphone topups requests per day, sent from client servers, smart-phones and other mobile devices.
+#    - description: Research and Development Engineer at <a href="http://veritran.net/en/">Veritran</a>, an Argentine mobile banking app developer company. Currently implementing new backbone features and improving current ones.
+
+- interval: 2014
+  items:
+    - description: <b>Lead developer</b> at <a href="//gcl.cis.udel.edu">Global Computing Lab</a> research group (GCLab), <a href="//www.udel.edu">University of Delaware</a>, USA. Implemented, modified and tested tools for researching computationally efficient algorithms and adaptive scheduling policies.
+    - description: <b>Nationwide</b> Customer Support <b>Manager</b> of <a href="//www.mineducacion.gov.co/spadies">SPADIES</a>, a <a href="//mineducacion.gov.co">Colombian Ministry of National Education</a> system that analyses data gathered by higher education institutions to minimize students dropping out indexes.
+
+- interval: 2011-2014
+  items:
+    - description: <b>Master's Degree</b>, Systems and Computer Engineering at <a href="//www.uniandes.edu.co/"><em>Universidad de los Andes</em></a>, Colombia. Ranked fifth in Latin America's top universities.
+    - description: <b>System Administrator</b> at <a href="//www.uniandes.edu.co/"><em>Universidad de los Andes</em></a> <a href="//sistemas.uniandes.edu.co/en/">Systems and Computer Engineering Department</a>, Colombia. Troubleshooted tier 2 and 3 requests while managing virtual IT infrastructure with 700+ VMWare virtual machines.
+#    - description: <b>Bachelor's Degree</b>, Systems and Computer Engineering at <a href="//www.utp.edu.co"><em>Universidad Tecnológica de Pereira</em></a>, Colombia.
