@@ -1,7 +1,7 @@
-- name: Software Development
+- name: SW Development
   description: I like my code to be pretty, reusable, modular and efficient. I know how to use <b>Python, Django</b>, C, C++, PHP, Matlab, Java, and Bash script.
 
-- name: System administration
+- name: IT Administration
   description: I enjoy optimizing resource utilization and hardening systems so <b>everything runs smoothly</b>. I know how to use <b>GNU/Linux</b> and configure services such as <b>web servers</b> (Apache, Nginx), <b>control version systems</b> (SVN, Git), <b>high availability services</b> (firewalls, load balancers, NAT and Proxy servers).
 
 - name: Cloud computing
