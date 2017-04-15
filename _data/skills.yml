@@ -1,8 +1,11 @@
-- name: Programming
-  description: I like my code to be pretty, reusable, modular and efficient. I know how to use <b>Python, Django</b>, C, C++, PHP, Matlab, Java and Bash script.
+- name: Software Development
+  description: I like my code to be pretty, reusable, modular and efficient. I know how to use <b>Python, Django</b>, C, C++, PHP, Matlab, Java, and Bash script.
+
+- name: System administration
+  description: I enjoy optimizing resource utilization and hardening systems so <b>everything runs smoothly</b>. I know how to use <b>GNU/Linux</b> and configure services such as <b>web servers</b> (Apache, Nginx), <b>control version systems</b> (SVN, Git), <b>high availability services</b> (firewalls, load balancers, NAT and Proxy servers).
 
 - name: Cloud computing
-  description: I always tend optimize resource utilization a lot so costs go down and elasticity shows cloud advantages over on-premises. Hands on experience with Amazon <b>AWS</b>, Microsoft, and open source clouds and technologies.
+  description: I always tend to optimize resource utilization a lot so costs go down and elasticity shows cloud advantages over on-premises. Hands-on experience with Amazon <b>AWS</b>, Microsoft, and open source clouds and technologies.
 
 - name: Virtualization
-  description: I enjoy virtualizing since it makes getting-things-done-fast a lot easier. I've been <b>VMWare</b> ESX administrator for more than 700 VMs running 24/7 over two fibre channel SANs, data loss free even after technical equipment failures (recovered data from physically damaged disks by using forensic equipment; and I also like other clouds platforms, like <b>OpenStack</b>.
+  description: I think virtualizing is amazing since it makes getting-things-done-fast a lot easier. I've been <b>VMWare</b> ESX administrator for more than 700 VMs running 24/7 over two fibre channel SANs, data loss free even after technical equipment failures (recovered data from physically damaged disks by using forensic equipment; and I also like other clouds platforms, like <b>OpenStack</b>.
